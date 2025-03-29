@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on building projects using Next.js<br><br>🌱 I’m currently learning Next.js and preparing to transition to React Native<br><br>👯 I’m looking to collaborate on Next.js and React.js projects<br><br>🤝 I’m looking for help with improving my React Native skills
+🔭 I’m currently working on building projects using Next.js<br>🌱 I’m currently learning Next.js and preparing to transition to React Native<br>👯 I’m looking to collaborate on Next.js and React.js projects<br>🤝 I’m looking for help with improving my React Native skills
 
 
 # 💻 Tech Stack:
